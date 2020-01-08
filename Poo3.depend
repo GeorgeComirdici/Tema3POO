@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578489863 source:c:\users\georgeg\desktop\poo3\poo3\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+
